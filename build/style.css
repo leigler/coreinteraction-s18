@@ -1,0 +1,285 @@
+/* STYLE */
+
+@font-face{
+	font-family: 'office';
+	src: url(fonts/OfficeCodePro-Light.otf);
+	font-weight: lighter;
+}
+
+
+body, html{
+	font-family: Arial;
+	font-weight: normal;
+	background-color: white;
+	backface-visibility: visible;
+
+
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: black;
+}
+
+::selection {
+    color: white; 
+    background: black;
+}
+
+
+body{
+
+}
+
+.page-contents{
+	opacity: 0;
+	transform: translateY(40px);
+	-webkit-transform: translateY(40px);
+	-moz-transform: translateY(40px);
+	transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+	-webkit-transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+	-moz-transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+	width: 100%;
+	padding-bottom: 100px;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li{
+	color: black;
+}
+
+h1{
+
+	text-align: center;
+	font-size: 40px;
+	font-weight: normal;
+	
+
+}
+
+h2{
+	position: relative;
+	text-align: left;
+	font-weight: normal;
+	font-size: 40px;
+	line-height: 50px;
+	margin: 0 auto;
+	width: 90vw;
+	max-width: 1000px;
+	margin-bottom: 30px;
+	margin-top: 120px;
+	border-top: 1px solid black;
+	padding-top: 15px;
+
+
+}
+
+
+p, h3, ul, h4, .h3-wrapper, .h3-prepend, pre{
+	position: relative;
+	width: 90vw;
+	margin: 0 auto;
+	text-align: left;
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: normal;
+	max-width: 1000px;
+	margin-bottom: 15px;
+	letter-spacing: 1px;
+
+}
+
+ul{
+	padding-bottom: 30px;
+}
+
+h3{
+	font-style: italic;
+	margin-top: 45px;
+
+}
+
+	.h3-closed{
+		display: inline-block;
+		position: relative;
+		background-color: blue;
+		overflow: hidden;
+		width: 20px;
+		height: 20px;
+		border-radius: 10px;
+		margin-left: 10px;
+		margin-bottom: -1px;
+		transition: opacity 0.2s ease-out;
+		-webkit-transition: opacity 0.2s ease-out;
+		-moz-transition: opacity 0.2s ease-out;
+
+	}
+
+	#horizontal, #vertical{
+		position: absolute;
+		background-color: black;
+		border-radius: 2px;
+
+	}
+
+	#horizontal{
+		left: 3px;
+		top: 8px;
+		width: 14px;
+		height: 4px;
+
+	}
+
+	#vertical{
+		left: 8px;
+		top: 3px;
+		width: 4px;
+		height: 14px;
+	}
+
+	.h3-wrapper{
+		display: none;
+	}
+
+h4{
+	
+	padding-left: 30px;
+	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+
+
+
+
+
+p >img, img {
+
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	width: 80vw;
+	max-width: 700px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
+p > code{
+	padding: 5px;
+	border-radius: 5px;
+	
+	background-color: white;
+}
+
+
+
+
+h4 > img{
+
+	display: inline-block;
+	position: relative;
+	width: 40vw;
+	max-width: 400px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+
+}
+
+
+pre, code{
+	font-family: 'office', courier new, courier, monospace;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: lighter;
+}
+
+code{
+	max-width: 1000px;
+	width: 90vw !important;
+	
+}
+
+pre{
+	color: clear;
+	background-color: white;
+	border-radius: 5px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	overflow-wrap: break-word !important;
+	white-space: pre-wrap;                 /* CSS3 browsers  */
+	white-space: -moz-pre-wrap !important; /* 1999+ Mozilla  */
+	white-space: -pre-wrap;                /* Opera 4 thru 6 */
+	white-space: -o-pre-wrap;              /* Opera 7 and up */
+	word-wrap: break-word;                 /* IE 5.5+ and up */
+
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	transition: opacity 0.2s ease-out;
+	-webkit-transition: opacity 0.2s ease-out;
+	-moz-transition: opacity 0.2s ease-out;
+}
+
+a:hover, .h3-closed:hover{
+	text-decoration: none;
+	opacity: 0.8;
+	background-color: gold;
+	color: black;
+	cursor: pointer;
+}
+
+
+.toc-button{
+	display: block;
+	position: fixed;
+	z-index: 10;
+	bottom: 20px;
+	left: 20px;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
+	background-color: gold;
+	color: black;
+	opacity: 0;
+	transform: scale(0.1);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	text-align: center;
+	line-height: 100px;
+
+	transition: opacity 0.6s ease-out, transform 0.6 ease-out;
+	-webkit-transition: opacity 0.6s ease-out, transform 0.6 ease-out;
+	-moz-transition: opacity 0.6s ease-out, transform 0.6 ease-out;
+
+}
+
+
+.toc-button > span{
+
+
+	display: block;
+	position: relative;
+	vertical-align: middle;
+	top: 50%;
+  	height: 30px;
+	font-size: 30px;
+	line-height: 30px;
+	left: 0;
+	right: 0;
+	margin: 0;
+	margin-top: -15px;
+
+}
+
