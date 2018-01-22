@@ -17,6 +17,8 @@ function githubMD(newPage){
 		theURL = testURL;
 	}
 
+	console.log(theURL)
+
 	$.when($.ajax({
 		dataType: 'text',
 	    url: theURL, 
