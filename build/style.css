@@ -8,11 +8,13 @@
 
 
 body, html{
-	font-family: Arial;
+	font-family: Arial, arial, sanserif;
 	font-weight: normal;
 	background-color: white;
 	backface-visibility: visible;
-
+	-webkit-backface-visibility: visible;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
 }
 

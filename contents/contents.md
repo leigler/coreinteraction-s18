@@ -11,7 +11,7 @@ eigll343@newschool.edu
 
 ## Table of Contents {toc}
 
-- Class Syllabus
+- [Class Syllabus](/readings/PUCD_2125_E_EIGLER-HARDING_SP18.pdf)
 - [Schedule](#schedule)
 - [Projects](#projects)
 - [Lectures](#lectures)
@@ -21,29 +21,36 @@ eigll343@newschool.edu
 ## Schedule {schedule}
 ### Week 1
 #### Jan 23
-#### Jan 25
+Introduction + Syllabus Overview
 
-### Week 2
+Design Check-in
+
+Good Design/Bad Design Presentations
+
+Assignment: [The Post](#thepost), For next class, prepare a brief (5 minute) presentation on your selected piece of content and the medium you would like to publish it in. 
+
+Reading: [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
+
+
 
 ## Projects {projects}
 
-### 1. Assignment
+### Assignment 1: The Post {thepost}
 
-### 2. Assignment
+As graphic designers, it is important to understand the internet and its platforms as a medium. What do certain platforms allow for that others do not? How might a platform transform a user's perception of content? Does the design of some platforms feel invisible? What are the implications of posting content on one platform as opposed to another? 
+
+For our first project, find a piece of content that has surpassed its copywright (archive.org, ubu.web are good places to start your search). Think about the content's form and message. What qualities stick out to you (is it divided into stanzas? is it repetitive? does it have a linear narrative? was it meant to be rearranged? can it be rearranged? does it have no letter e?)? 
+Publish your selected text on a platform of your choice. Think about how this act of publishing emphasizes a quality of your content (it does not have to be all at once). How has the content changed through your platform. What is something new that this publishing act has revealed about your content? 
+
+Document your project through screenshots and think carefully about its presentation. 
+
+
+
 
 ## Lectures {lectures}
 
 ## Reading List {readings}
-
-- [Typography and the Screen: A Technical Chronology of Digital Typography](/readings/Typography_and_the_Screen.pdf) by Loretta Staples
-- [Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/overview/themes/)
-- [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari
 - [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
-- [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Bruno Latour
-- [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
-- [Over the Bridge](http://digital-strategies.ma-ad.ch/article/overthebridge/) by Rob Giampietro
-- [Economy of a Typeface]() by Joseph Albers
-- 
 
 ## Resources {resources}
 ### Software
@@ -72,4 +79,4 @@ eigll343@newschool.edu
 ## Acknowledgements
 Thank you to Brendan Griffiths, Clement Valla, and Laurel Schwulst for setting excellent web-oriented class precedents.
 
-Website set in Times New Roman and [Office Code Pro Light](https://github.com/nathco/Office-Code-Pro/blob/master/Fonts/Office%20Code%20Pro/OTF/OfficeCodePro-Light.otf). Using [highlight.js](https://highlightjs.org/) and [showdown.js](https://github.com/showdownjs/showdown).
+Website set in Arial and [Office Code Pro Light](https://github.com/nathco/Office-Code-Pro/blob/master/Fonts/Office%20Code%20Pro/OTF/OfficeCodePro-Light.otf). Using [highlight.js](https://highlightjs.org/) and [showdown.js](https://github.com/showdownjs/showdown).
