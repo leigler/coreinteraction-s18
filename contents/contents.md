@@ -39,10 +39,12 @@ Reading: [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
 
 As graphic designers, it is important to understand the internet and its platforms as a medium. What do certain platforms allow for that others do not? How might a platform transform a user's perception of content? Does the design of some platforms feel invisible? What are the implications of posting content on one platform as opposed to another? 
 
-For our first project, find a piece of content that has surpassed its copywright (archive.org, ubu.web are good places to start your search). Think about the content's form and message. What qualities stick out to you (is it divided into stanzas? is it repetitive? does it have a linear narrative? was it meant to be rearranged? can it be rearranged? does it have no letter e?)? 
+For our first project, find a piece of content that has surpassed its copyright (archive.org, ubu.web are good places to start your search). Think about the content's form and message. What qualities stick out to you (is it divided into stanzas? is it repetitive? does it have a linear narrative? was it meant to be rearranged? can it be rearranged? does it have [no letter e](https://en.wikipedia.org/wiki/A_Void)?)? 
 Publish your selected text on a platform of your choice. Think about how this act of publishing emphasizes a quality of your content (it does not have to be all at once). How has the content changed through your platform. What is something new that this publishing act has revealed about your content? 
 
 Document your project through screenshots and think carefully about its presentation. 
+
+#### 
 
 
 
