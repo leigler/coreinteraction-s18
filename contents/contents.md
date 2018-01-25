@@ -21,17 +21,27 @@ eigll343@newschool.edu
 ## Schedule {schedule}
 ### Week 1
 #### Jan 23
-Introduction + Syllabus Overview
 
-Design Check-in
+_In-Class_:
+- Introduction + Syllabus Overview
+- Design Check-in
+- Good Design/Bad Design Presentations
 
-Good Design/Bad Design Presentations
+_Assignment_: 
+- [The Post](#thepost) For next class, prepare a brief (5 minute) presentation on your selected piece of content and the medium you would like to publish it in. 
 
-_Assignment_: [The Post](#thepost), For next class, prepare a brief (5 minute) presentation on your selected piece of content and the medium you would like to publish it in. 
+_Reading_: 
+- [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
 
-_Reading_: [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
+#### Jan 24
 
+_In-Class_:
+- Design process lecture
+- Class Discussion: _Dispersion_
+- The Post Presentations, Feedback
 
+_Assignment_: 
+- [The Post](#thepost) For next class, publish your content online. Document the process and any potential reactions (if you're expecting responses or if responses are part of your publishing process, make sure to document them fully).  
 
 ## Projects {projects}
 
@@ -39,8 +49,9 @@ _Reading_: [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
 
 As graphic designers, it is important to understand the internet and its platforms as a medium. What do certain platforms allow for that others do not? How might a platform transform a user's perception of content? Does the design of some platforms feel invisible? What are the implications of posting content on one platform as opposed to another? 
 
-For our first project, find a piece of content that has surpassed its copyright (archive.org, ubu.web are good places to start your search). Think about the content's form and message. What qualities stick out to you (is it divided into stanzas? is it repetitive? does it have a linear narrative? was it meant to be rearranged? can it be rearranged? does it have [no letter e](https://en.wikipedia.org/wiki/A_Void)?)? 
+For our first project, find a piece of content that has surpassed its copyright ([archive.org](http://archive.org), [ubu.web](http://ubuweb.com) are good places to start your search). Think about the content's form and message. What qualities stick out to you (is it divided into stanzas? is it repetitive? does it have a linear narrative? was it meant to be rearranged? can it be rearranged? does it have [no letter e](https://en.wikipedia.org/wiki/A_Void)?)? 
 Publish your selected text on a platform of your choice. Think about how this act of publishing emphasizes a quality of your content (it does not have to be all at once). How has the content changed through your platform? What is something new that this publishing act has revealed about your content? 
+
 How will the reading of the text be affected by the choice of platform? Does the TUMBLR community create a different context for writing and images than the Second Life community for example? Think also about the technical constraints of different platforms. How are texts broken up? In 140 character blurbs? In longer sequences? How does each piece of text link to the next one. Are there different voices you can use? Can the text be broken up into sequential sections? What about parallel sections? How does the text look on the page? How do all these elements affect your reading of the text? How many of these elements can you control? What is the typical way we read text on the service you are using? Are you interrupting this ‘usual’ read, using it to your advantage?
 
 Document your project through screenshots and think carefully about its presentation. 

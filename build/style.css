@@ -91,8 +91,9 @@ p, h3, ul, h4, .h3-wrapper, .h3-prepend, pre{
 }
 
 ul{
-	padding-bottom: 30px;
+	padding-bottom: 0px;
 }
+
 
 h3{
 	font-style: italic;
@@ -144,12 +145,26 @@ h3{
 
 h4{
 	
-	padding-left: 30px;
+	padding-top: 30px;
+	
 	box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
 
+
+h4:before{
+
+	display: inline-block;
+	content: "";
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	background-color: gold;
+	margin-right: 15px;
+	margin-left: -5px;
+	margin-bottom: -4px;
+}
 
 
 
