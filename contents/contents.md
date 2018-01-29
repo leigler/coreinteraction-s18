@@ -19,6 +19,20 @@ eigll343@newschool.edu
 - [Resources](#resources)
 
 ## Schedule {schedule}
+
+### Week 2
+#### Jan 29
+_In-Class_:
+- The Post Critique
+- The Hyperlink introduction
+
+_Assignment_: 
+- [The Hyperlink](#hyperlink) (find content and present connections)
+
+_Reading_: 
+- [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
+- [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith
+
 ### Week 1
 #### Jan 23
 
@@ -56,13 +70,32 @@ How will the reading of the text be affected by the choice of platform? Does the
 
 Document your project through screenshots and think carefully about its presentation. 
 
+### Assignment 2: The Hyperlink, Pt. 1 {hyperlink}
 
+The hyperlink (or link) is arguably the cornerstone of the internet. A hyperlink can transport a user from page to page, or website to website— it acts as the linking mechanism through which the whole internet is at our disposal. Through hyperlinks, a user is able to construct their own path or narrative.
+
+You will design and develop a multi-page website around the hyperlink that intertwines your selected content and produces a new narrative:
+
+Select two pieces of content that complement each other in some way. Think about how these pieces may fragment and weave through each other (how do they relate? Are there points where the content breaks easily? What new meaning can you construct by pairing disparate sentences together? How does seeing fragments of content on each page shift the pacing of your new narrative? Are all the links treated the same? different? What kind of hierarchy can you introduce into your narrative?). 
+
+Begin to think about how the site structure begins to influence the user's understanding of your texts. How might the navigation alter the contents meaning? 
+
+For next class, prepare a short presentation on your selected pieces of content, what you find interesting about their pairing, and how you plan on collaging them, and what new narrative this collaging produces.
+
+_References_:
+- [Superbad](http://www.superbad.com/) by Ben Benjamin
+- [My boyfriend came back from the war](http://www.teleportacia.org/war/) by Olia Lialina
+- [Summer](http://art.teleportacia.org/olia/summer/) by Olia Lialina
+- [Trailblazers 7](http://classic.rhizome.org/editorial/2014/aug/11/trailblazers-7-notes-game-master/)
+- [On Slack and Surf Clubs](https://rhizome.org/editorial/2017/aug/14/fyi-on-slack-and-surf-clubs/)
 
 
 ## Lectures {lectures}
 
 ## Reading List {readings}
 - [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
+- [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
+
 
 ## Resources {resources}
 ### Software
