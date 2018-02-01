@@ -33,6 +33,16 @@ _Reading_:
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
 - [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith
 
+#### Feb 1
+_In-Class_:
+- Lecture: [A Brief History of the Internet](lectures/history-of-the-internet)
+- Class Discussion on [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) and [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf)
+- Presentations on content for [The Hyperlink](#hyperlink)
+
+_Assignment_:
+- [The Hyperlink, Pt. 2](#hyperlink2): Content Architecture
+
+
 ### Week 1
 #### Jan 23
 
@@ -88,9 +98,18 @@ _References_:
 - [Summer](http://art.teleportacia.org/olia/summer/) by Olia Lialina
 - [Trailblazers 7](http://classic.rhizome.org/editorial/2014/aug/11/trailblazers-7-notes-game-master/)
 - [On Slack and Surf Clubs](https://rhizome.org/editorial/2017/aug/14/fyi-on-slack-and-surf-clubs/)
+- [wwwwwwwww.jodi.org](http://wwwwwwwww.jodi.org/)
 
+### Assignment 2: The Hyperlink, Pt. 2 {hyperlink2}
+
+For next week, make a diagram that maps out your site&rsquo;s structure (i.e. the site&rsquo;s content architecture).
+
+Allow this diagram to be as detailed as possible: what text is on what web page? What pages link to others? Does the narrative loop? how does it intertwine? Are there dead ends? can you go back? Does your site have multiple starting points?
+
+Think about how the structure of your site might influence the user&rsquo;s understanding of your narrative. Is there a traditional beginning, middle, and end? Are they clear to the user? (Should they be clear to the user?)
 
 ## Lectures {lectures}
+- [A Brief History of the Internet](/lectures/history-of-the-internet)
 
 ## Reading List {readings}
 - [Dispersion](/readings/Dispersion2016.pdf) by Seth Price

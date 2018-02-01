@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Core Interaction (Studio) 2018</title>
+
+<!-- 
+      ___           ___                                                           
+     /\  \         /\__\         _____                                            
+    _\:\  \       /:/ _/_       /::\  \                                           
+   /\ \:\  \     /:/ /\__\     /:/\:\  \                                          
+  _\:\ \:\  \   /:/ /:/ _/_   /:/ /::\__\                                         
+ /\ \:\ \:\__\ /:/_/:/ /\__\ /:/_/:/\:|__|                                        
+ \:\ \:\/:/  / \:\/:/ /:/  / \:\/:/ /:/  /                                        
+  \:\ \::/  /   \::/_/:/  /   \::/_/:/  /                                         
+   \:\/:/  /     \:\/:/  /     \:\/:/  /                                          
+    \::/  /       \::/  /       \::/  /                                           
+     \/__/         \/__/         \/__/                                            
+                  ___                         ___           ___                   
+                 /\  \                       /\__\         /\  \                  
+    ___          \:\  \         ___         /:/ _/_       /::\  \                 
+   /\__\          \:\  \       /\__\       /:/ /\__\     /:/\:\__\                
+  /:/__/      _____\:\  \     /:/  /      /:/ /:/ _/_   /:/ /:/  /                
+ /::\  \     /::::::::\__\   /:/__/      /:/_/:/ /\__\ /:/_/:/__/___              
+ \/\:\  \__  \:\~~\~~\/__/  /::\  \      \:\/:/ /:/  / \:\/:::::/  /              
+  ~~\:\/\__\  \:\  \       /:/\:\  \      \::/_/:/  /   \::/~~/~~~~               
+     \::/  /   \:\  \      \/__\:\  \      \:\/:/  /     \:\~~\                   
+     /:/  /     \:\__\          \:\__\      \::/  /       \:\__\                  
+     \/__/       \/__/           \/__/       \/__/         \/__/                  
+      ___           ___                                     ___           ___     
+     /\  \         /\__\                                   /\  \         /\  \    
+    /::\  \       /:/  /          ___         ___         /::\  \        \:\  \   
+   /:/\:\  \     /:/  /          /\__\       /\__\       /:/\:\  \        \:\  \  
+  /:/ /::\  \   /:/  /  ___     /:/  /      /:/__/      /:/  \:\  \   _____\:\  \ 
+ /:/_/:/\:\__\ /:/__/  /\__\   /:/__/      /::\  \     /:/__/ \:\__\ /::::::::\__\
+ \:\/:/  \/__/ \:\  \ /:/  /  /::\  \      \/\:\  \__  \:\  \ /:/  / \:\~~\~~\/__/
+  \::/__/       \:\  /:/  /  /:/\:\  \      ~~\:\/\__\  \:\  /:/  /   \:\  \      
+   \:\  \        \:\/:/  /   \/__\:\  \        \::/  /   \:\/:/  /     \:\  \     
+    \:\__\        \::/  /         \:\__\       /:/  /     \::/  /       \:\__\    
+     \/__/         \/__/           \/__/       \/__/       \/__/         \/__/                                                           
+                                                                                                                                                                  
+
+-->
+
+
+	<link rel="stylesheet" type="text/css" href="build/style.css">
+
+  <style type="text/css">
+    
+    html, body{
+      font-size: 15px;
+      background-color: black;
+      color: white;
+      font-family: arial;
+    }
+
+    h1, h2, h3, h4, h5, h6{
+      font-weight: normal;
+    }
+
+    html, body, div, li{
+      padding: 0px;
+      margin: 0px;
+    }
+
+    .slide{
+      position: relative;
+      display: block;
+      width: 100vw;
+      min-height: 100vh;
+      height: 100%;
+      background-color: black;
+
+    }
+
+    .down{
+      position: absolute;
+      bottom: 2rem;
+      right: 2rem;
+      width: 4rem;
+      height: 4rem;
+      border-radius: 2rem;
+      background-color: gold;
+    }
+
+    .back{
+      position: absolute;
+      top: 2rem;
+      left: 2rem;
+      font-size: 2rem;
+    }
+
+    .down:hover{
+      transform: scale(0.95);
+      -webkit-transform: scale(0.95);
+      -moz-transform: scale(0.95);
+    }
+
+    .content{
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 80vw;
+      max-width: 60rem;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1{
+      font-size: 3rem;
+    }
+
+    li, p{
+      font-size: 2rem;
+      line-height: 2.5rem;
+      letter-spacing: 0.1rem;
+      margin-bottom: 1rem;
+    }
+
+    ul{
+      list-style: none;
+    }
+
+    li:before{
+      content: "";
+      display: inline-block;
+      width: 1.5rem;
+      height: 1.5rem;
+      border-radius: 0.75rem;
+      background-color: white;
+      margin-right: 1rem;
+    }
+
+    img{
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+      max-width: 90vh;
+    }
+
+    a{
+      text-decoration: none;
+      color: gold;
+    }
+
+    a:hover{
+      background-color: gold;
+      color: black;
+    }
+
+    iframe{
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      margin-top: 0px;
+    }
+
+
+  </style>
+
+</head>
+<body>
+<script
+  src="http://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.7.1/showdown.min.js"></script>
+<script type="text/javascript" src="build/github-md.js"></script>
+
+
+
+
+
+<div class="slide" id="slide-1">
+  <a href="#slide-2" class="down"></a>
+  <a href="../../" class="back">← Core Interaction Studio</a>
+  <div class="content">
+    <h1>A Short History of the Internet</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-2">
+  <a href="#slide-3" class="down"></a>
+  <div class="content">
+    <h1>Table of Contents</h1>
+    <ul>
+      <li>The Mother of All Demos</li>
+      <li>ARPANET</li>
+      <li>HTML</li>
+      <li>The Hyperlink</li>
+      <li>The Web Browser</li>
+      <li>The URL</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-3">
+  <a href="#slide-4" class="down"></a>
+  <div class="content">
+    <h1>The Mother of All Demos</h1>
+    <ul>
+      <li>MOAD was a live demonstration by Douglas Engelbart (an engineer and inventor known for founding the field of human-computer interaction) in Dec 1968. The demo introduced a complete collection of hardware and software (oN-Line System), and toured the audience through “windows, hypertext, graphics, efficient navigation and command input, video conferencing, the computer mouse, word processing, dynamic file linking (!), […] and collaborative edit[ing]”.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-4">
+  <a href="#slide-5" class="down"></a>
+  <div class="content">
+    <ul>
+      <li>MOAD was the first closed system computer, demonstrating an operating system w/ multiple functions. It inspired the Apple Macintosh and Microsoft Windows.</li>
+    </ul>
+    <img src="contents/moad-1.jpg">
+  </div>
+</div>
+
+<div class="slide" id="slide-5">
+  <a href="#slide-6" class="down"></a>
+  <div class="content">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vv85FSf_6vw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="slide" id="slide-6">
+  <a href="#slide-7" class="down"></a>
+  <div class="content">
+    <h1>ARPANET</h1>
+    <ul>
+      <li>ARPANET,  a precursor to the internet was established in 1969. Funded largely by the United States Dept. for Defense, it was a coordinated attempt between multiple universities in California to transfer data through a method called “packet switching.”</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-7">
+  <a href="#slide-8" class="down"></a>
+  <div class="content">
+    <p>ARPANET: A Timeline</p>
+    <img src="contents/arpanet-.jpg">
+  </div>
+</div>
+
+<div class="slide" id="slide-8">
+  <a href="#slide-9" class="down"></a>
+  <div class="content">
+    <h1>HTML</h1>
+    <ul>
+      <li>
+        Hypertext is digitally displayed text that allows the user to quickly navigate to related texts through “links”— perhaps comparable to Choose your Own Adventure books
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-9">
+  <a href="#slide-10" class="down"></a>
+  <div class="content">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/74c8LntW7fo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="slide" id="slide-10">
+  <a href="#slide-11" class="down"></a>
+  <div class="content">
+    <ul>
+      <li>
+        HTML was introduced in an attempt to standardize the type of information that web browser software could interpret. As networks grew (slowly forming the internet we know today), there was a need for a standardized protocol of content interpretation.
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-11">
+  <a href="#slide-12" class="down"></a>
+  <div class="content">
+    <h1>The Hyperlink</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-12">
+  <a href="#slide-13" class="down"></a>
+  <div class="content">
+    <ul>
+      <li>Key to initial local hypertexts and subsequent HTML was the hyperlink— a method of navigating from resource to resource</li>
+    </ul>
+    <img src="contents/moad-2.jpg">
+  </div>
+</div>
+
+<div class="slide" id="slide-13">
+  <a href="#slide-14" class="down"></a>
+  <div class="content">
+    <ul>
+      <li>The word hyperlink was coined in 1965 by Ted Nelson but inspired by an essay <a href="http://web.mit.edu/STS.035/www/PDFs/think.pdf" target="_blank">“As We May Think”</a> written by Vannevar Bush in 1945 (an essay which essentially envisioned contemporary computers and the internet).
+      </li>
+      <li><i>The hyperlink is vital not only to the internet, but to how we navigate information. Academic footnotes, colloquial references, and even memories are all arguably vague precursors to the hyperlink.
+      </i></li>
+    </ul>
+    
+  </div>
+</div>
+
+<div class="slide" id="slide-14">
+  <a href="#slide-15" class="down"></a>
+  <div class="content">
+    <h1>The Web Browser</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-15">
+  <a href="#slide-16" class="down"></a>
+  <div class="content">
+    <p>The first widely used web browser was Mosaic, introduced in 1993.</p>
+    <img src="contents/mosaic.png">
+  </div>
+</div>
+
+<div class="slide" id="slide-16">
+  <a href="#slide-17" class="down"></a>
+  <div class="content">
+    <p>In 1994, Netscape was introduced and quickly accounted for 90% of internet traffic/</p>
+    <img src="contents/netscape.png">
+  </div>
+</div>
+
+<div class="slide" id="slide-17">
+  <a href="#slide-18" class="down"></a>
+  <div class="content">
+    <p>in 1995, Microsoft packaged Internet Explorer w/ its Windows OS, producing a &ldquo;browser war&rdquo;.</p>
+    <p><a href="http://oldweb.today/" target="_blank">oldweb.today</a></p>
+  </div>
+</div>
+
+<div class="slide" id="slide-18">
+  <a href="#slide-19" class="down"></a>
+  <div class="content">
+    <h1>The URL</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-19">
+  <a href="#slide-20" class="down"></a>
+  <div class="content">
+  <ul>
+    <li> All webpages are assigned an IP address (000.000.000.000)— since these sequences are somewhat difficult to memorize, URL’s (Uniform Resource Locater) were introduced.</li>
+    <li>Like the hyperlink, the URL is vital to the success of the internet— it allows for the easy categorization of information for both humans and machines.</li>
+  </ul>
+  </div>
+</div>
+
+
+<div class="slide" id="slide-20">
+  <a href="#slide-1" class="down"></a>
+  <div class="content">
+  <p>Examples by the artist collective <a target="_blank" href="http://www.e-flux.com/journal/74/59810/jodi-s-infrastructure/">Jodi</a>:</p>
+
+  <ul>
+    <li><a href="http://㐃.net/" target="_blank">IDN</a></li>
+    <li><a href="http://ꉆ.com/" target="_blank">ꉆ.com</a></li>
+    <li><a href="http://ꄬ.com/" target="_blank">ꄬ.com</a></li>
+  </ul>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  
+
+
+
+
+</script>
+
+</body>
+</html>
