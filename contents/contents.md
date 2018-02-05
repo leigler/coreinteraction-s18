@@ -20,6 +20,18 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 3
+#### Feb 5
+_In-Class_:
+- Hyperlink Diagram Class Critique
+
+_Assignment_:
+[The Hyperlink](#hyperlink3): Content Architecture, Designs
+
+_Reading_:
+- [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
+
+
 ### Week 2
 #### Jan 29
 _In-Class_:
@@ -27,7 +39,7 @@ _In-Class_:
 - The Hyperlink introduction
 
 _Assignment_: 
-- [The Hyperlink](#hyperlink) (find content and present connections)
+- [The Hyperlink](#hyperlink): Find content and present connections
 
 _Reading_: 
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
@@ -107,6 +119,17 @@ For next week, make a diagram that maps out your site&rsquo;s structure (i.e. th
 Allow this diagram to be as detailed as possible: what text is on what web page? What pages link to others? Does the narrative loop? how does it intertwine? Are there dead ends? can you go back? Does your site have multiple starting points?
 
 Think about how the structure of your site might influence the user&rsquo;s understanding of your narrative. Is there a traditional beginning, middle, and end? Are they clear to the user? (Should they be clear to the user?)
+
+### Assignment 2: The Hyperlink, Pt. 3 {hyperlink3}
+
+Based on feedback from class, finalize your site&rsquo;s structure. In addition, begin drafting designs (i.e. the user interface) of your site. _For next class, bring in your finalized diagram, and at least two visual directions for your site_. 
+
+Think about how the designs for your interface reflect both the site&rsquo;s content as well as its structure. 
+- What visual cues do you provide to your user? 
+- How do you signify different types of links?
+- How does typography influence the user&rsquo;s understanding of the content?
+- Are page designs prescribed? Do they follow a grid? Why/why not?
+- What reoccuring visual signals are there? What do they suggest to the user?
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](/lectures/history-of-the-internet)
