@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Core Interaction (Studio) 2018</title>
+
+<!-- 
+       ___           ___           ___           ___                               
+     /\__\         /\  \         /\  \         /\__\                              
+    /:/  /        /::\  \       /::\  \       /:/ _/_                             
+   /:/  /        /:/\:\  \     /:/\:\__\     /:/ /\__\                            
+  /:/  /  ___   /:/  \:\  \   /:/ /:/  /    /:/ /:/ _/_                           
+ /:/__/  /\__\ /:/__/ \:\__\ /:/_/:/__/___ /:/_/:/ /\__\                          
+ \:\  \ /:/  / \:\  \ /:/  / \:\/:::::/  / \:\/:/ /:/  /                          
+  \:\  /:/  /   \:\  /:/  /   \::/~~/~~~~   \::/_/:/  /                           
+   \:\/:/  /     \:\/:/  /     \:\~~\        \:\/:/  /                            
+    \::/  /       \::/  /       \:\__\        \::/  /                             
+     \/__/         \/__/         \/__/         \/__/                              
+                  ___                         ___           ___                   
+                 /\  \                       /\__\         /\  \                  
+    ___          \:\  \         ___         /:/ _/_       /::\  \                 
+   /\__\          \:\  \       /\__\       /:/ /\__\     /:/\:\__\                
+  /:/__/      _____\:\  \     /:/  /      /:/ /:/ _/_   /:/ /:/  /                
+ /::\  \     /::::::::\__\   /:/__/      /:/_/:/ /\__\ /:/_/:/__/___              
+ \/\:\  \__  \:\~~\~~\/__/  /::\  \      \:\/:/ /:/  / \:\/:::::/  /              
+  ~~\:\/\__\  \:\  \       /:/\:\  \      \::/_/:/  /   \::/~~/~~~~               
+     \::/  /   \:\  \      \/__\:\  \      \:\/:/  /     \:\~~\                   
+     /:/  /     \:\__\          \:\__\      \::/  /       \:\__\                  
+     \/__/       \/__/           \/__/       \/__/         \/__/                  
+      ___           ___                                     ___           ___     
+     /\  \         /\__\                                   /\  \         /\  \    
+    /::\  \       /:/  /          ___         ___         /::\  \        \:\  \   
+   /:/\:\  \     /:/  /          /\__\       /\__\       /:/\:\  \        \:\  \  
+  /:/ /::\  \   /:/  /  ___     /:/  /      /:/__/      /:/  \:\  \   _____\:\  \ 
+ /:/_/:/\:\__\ /:/__/  /\__\   /:/__/      /::\  \     /:/__/ \:\__\ /::::::::\__\
+ \:\/:/  \/__/ \:\  \ /:/  /  /::\  \      \/\:\  \__  \:\  \ /:/  / \:\~~\~~\/__/
+  \::/__/       \:\  /:/  /  /:/\:\  \      ~~\:\/\__\  \:\  /:/  /   \:\  \      
+   \:\  \        \:\/:/  /   \/__\:\  \        \::/  /   \:\/:/  /     \:\  \     
+    \:\__\        \::/  /         \:\__\       /:/  /     \::/  /       \:\__\    
+     \/__/         \/__/           \/__/       \/__/       \/__/         \/__/    
+-->
+
+
+	<link rel="stylesheet" type="text/css" href="build/style.css">
+
+  <style type="text/css">
+    
+    html, body{
+      font-size: 15px;
+      background-color: black;
+      color: white;
+      font-family: arial;
+    }
+
+    h1, h2, h3, h4, h5, h6{
+      font-weight: normal;
+    }
+
+    html, body, div, li{
+      padding: 0px;
+      margin: 0px;
+    }
+
+    .slide{
+      position: relative;
+      display: block;
+      width: 100vw;
+      min-height: 100vh;
+      height: 100%;
+      background-color: black;
+
+    }
+
+    .down{
+      position: absolute;
+      bottom: 2rem;
+      right: 2rem;
+      width: 4rem;
+      height: 4rem;
+      border-radius: 2rem;
+      background-color: gold;
+    }
+
+    .back{
+      position: absolute;
+      top: 2rem;
+      left: 2rem;
+      font-size: 2rem;
+    }
+
+    .down:hover{
+      transform: scale(0.95);
+      -webkit-transform: scale(0.95);
+      -moz-transform: scale(0.95);
+    }
+
+    .content{
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 80vw;
+      max-width: 60rem;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1{
+      font-size: 3rem;
+    }
+
+    li, p{
+      font-size: 2rem;
+      line-height: 2.5rem;
+      letter-spacing: 0.1rem;
+      margin-bottom: 1rem;
+    }
+
+    ul{
+      list-style: none;
+    }
+
+    li:before{
+      content: "";
+      display: inline-block;
+      width: 1.5rem;
+      height: 1.5rem;
+      border-radius: 0.75rem;
+      background-color: white;
+      margin-right: 1rem;
+    }
+
+    img{
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+      max-width: 90vh;
+    }
+
+    a{
+      text-decoration: none;
+      color: gold;
+    }
+
+    a:hover{
+      background-color: gold;
+      color: black;
+    }
+
+    iframe{
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      margin-top: 0px;
+    }
+
+
+    .caption{font-size: 1rem;}
+
+
+  </style>
+
+</head>
+<body>
+<script
+  src="http://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.7.1/showdown.min.js"></script>
+<script type="text/javascript" src="build/github-md.js"></script>
+
+
+
+
+
+<div class="slide" id="slide-1">
+  <a href="#slide-2" class="down"></a>
+  <a href="../../" class="back">← Core Interaction Studio</a>
+  <div class="content">
+    <h1>Typography and the Web</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-2">
+  <a href="#slide-3" class="down"></a>
+  <div class="content">
+    <h1>Table of Contents</h1>
+    <ul>
+      <li>Typography and Technology</li>
+      <li>Experimentation</li>
+      <li>Design Guidelines and Usability</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-3">
+  <a href="#slide-a" class="down"></a>
+  <div class="content">
+    <h1>Typography and Technology</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-a">
+  <a href="#slide-b" class="down"></a>
+  <div class="content">
+    <img src="contents/Korean_book-Jikji-Selected_Teachings_of_Buddhist_Sages_and_Seon_Masters-1377.jpg" style="max-height: 60vh; object-fit: contain; ">
+    <p class="caption">SOURCE: Korean movable type from 1377 used for the Jikji</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-b">
+  <a href="#slide-c" class="down"></a>
+  <div class="content">
+    <img src="contents/469-the-gutenberg-bible.jpg" style="max-height: 60vh; object-fit: contain; ">
+    <p class="caption">SOURCE: Gutenberg Bible, 1450s</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-c">
+  <a href="#slide-4" class="down"></a>
+  <div class="content">
+    <img src="contents/durer-horsemen.jpg" style="max-height: 60vh; object-fit: contain; ">
+    <p class="caption">SOURCE: Albrecht Dürer, 1498 (The Met)</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-4">
+  <a href="#slide-5" class="down"></a>
+  <div class="content">
+    <img src="contents/1966_11.jpg" style="max-height: 60vh; object-fit: contain; ">
+    <p class="caption">SOURCE: Robert Büchler for Typographische Monatsblatter, 1966</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-5">
+  <a href="#slide-6" class="down"></a>
+  <div class="content">
+    <img src="contents/Brooklyn-Daily-Eagle-1875-01-06.png" style="max-height: 60vh; object-fit: contain; ">
+    <p class="caption">SOURCE: Brooklyn Daily Eagle, January 6, 1875 (Image found on Wikipedia)</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-6">
+  <a href="#slide-7" class="down"></a>
+  <div class="content">
+    <p>The Source (inspect element)</p>
+  </div>
+</div>
+
+<div class="slide" id="slide-7">
+  <a href="#slide-8" class="down"></a>
+  <div class="content">
+    <h1>Experimentation</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-8">
+  <a href="#slide-9" class="down"></a>
+  <div class="content">
+    <p>CSS Font Styling:</p>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family" target="_blank">font-family</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/font-size" target="_blank">font-size</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/font-weight" target="_blank">font-weight</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/font-style" target="_blank">font-style</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/line-height" target="_blank">line-height</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/letter-spacing" target="_blank">letter-spacing</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/font-stretch" target="_blank">font-stretch</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration" target="_blank">text-decoration</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-9">
+  <a href="#slide-10" class="down"></a>
+  <div class="content">
+    <p>CSS Manipulations:</p>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale" target="_blank">transform: scale()</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate" target="_blank">transform: rotate()</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew" target="_blank">transform: skew()</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/perspective" target="_blank">transform: perspective()</a></li>
+      <li><a href="https://css-tricks.com/almanac/properties/a/animation/" target="_blank">CSS Animations</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions" target="_blank">CSS Transitions</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-10">
+  <a href="#slide-11" class="down"></a>
+  <div class="content">
+    <p>CSS and Hyperlinks:</p>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover" target="_blank">:hover</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/MediaStream/active" target="_blank">:active</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:visited" target="_blank">:visited</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-11">
+  <a href="#slide-12" class="down"></a>
+  <div class="content">
+    <p>Further Resources</p>
+    <ul>
+      <li><a href="http://learnlayout.com/" target="_blank">CSS Layouts</a></li>
+      <li><a href="http://devdocs.io/" target="_blank">All of HTML and CSS, searchable</a></li>
+      <li><a href="https://gitlab.com/raphaelbastide/libre-foundries" target="_blank">Open Source Font List</a></li>
+      <li><a href="https://cssreference.io/typography/" target="_blank">CSSreference.io</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide" id="slide-12">
+  <a href="#slide-13" class="down"></a>
+  <div class="content">
+    <h1>Design Guidelines and Usability</h1>
+  </div>
+</div>
+
+<div class="slide" id="slide-13">
+  <a href="#slide-1" class="down"></a>
+  <div class="content">
+    <p>Organizations like Google and Apple have published design guidelines. These guidelines are helpful in understanding many conventions of web design, and how these conventions are thought about.</p>
+    <ul>
+      <li><a href="https://material.io/guidelines/" target="_blank">Google Material</a></li>
+      <li>
+        <a href="https://developer.apple.com/macos/human-interface-guidelines/overview/themes/" target="_blank">Apple Human Interface Guidelines</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+  
+
+
+
+
+</script>
+
+</body>
+</html>

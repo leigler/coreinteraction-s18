@@ -31,6 +31,14 @@ _Assignment_:
 _Reading_:
 - [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
 
+#### Feb 8
+_In-Class_:
+- [Typography and the Web (Technology and Resources)](lectures/typography-and-the-web)
+- Class Critique on Hyperlink Site Diagrams and Designs
+
+_Assignment_:
+[The Hyperlink](#hyperlink4): Designs, continued
+
 
 ### Week 2
 #### Jan 29
@@ -131,12 +139,25 @@ Think about how the designs for your interface reflect both the site&rsquo;s con
 - Are page designs prescribed? Do they follow a grid? Why/why not?
 - What reoccuring visual signals are there? What do they suggest to the user?
 
+### Assignment 2: The Hyperlink, Pt. 4 {hyperlink4}
+
+Based on feedback from class, select one design direction and refine it. This means determining and keeping a visual language, levels of hierarchy, and button and link types. As you continue your designs, begin to think about how you may build your pages. 
+
+If need be, continue finalizing your site&rsquo;s structure. 
+
+For next week, the site structure should be finalized and your site&rsquo;s design should be implemented across at least 80% of your pages.
+
+
+
+
 ## Lectures {lectures}
 - [A Brief History of the Internet](/lectures/history-of-the-internet)
 
 ## Reading List {readings}
 - [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
+- [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
+- [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
 
 
 ## Resources {resources}

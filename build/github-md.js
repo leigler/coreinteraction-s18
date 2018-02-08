@@ -31,6 +31,9 @@ function githubMD(newPage){
 
 			$( ".page-contents" ).append( $( html ) ); //introduce content
 
+
+			
+
 	    }
 	 })).then(function(){
 
