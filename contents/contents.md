@@ -19,6 +19,15 @@ eigll343@newschool.edu
 - [Resources](#resources)
 
 ## Schedule {schedule}
+### Week 4
+#### Feb 11
+_In-Class_:
+- Hyperlink Critiques
+- [Design to Div Lecture](lectures/design-to-div)
+- Design to Div Exercise
+
+_Assignment_:
+- [The Hyperlink](#hyperlink5): Finalize Designs, Begin Coding
 
 ### Week 3
 #### Feb 5
@@ -26,7 +35,7 @@ _In-Class_:
 - Hyperlink Diagram Class Critique
 
 _Assignment_:
-[The Hyperlink](#hyperlink3): Content Architecture, Designs
+- [The Hyperlink](#hyperlink3): Content Architecture, Designs
 
 _Reading_:
 - [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
@@ -37,7 +46,7 @@ _In-Class_:
 - Class Critique on Hyperlink Site Diagrams and Designs
 
 _Assignment_:
-[The Hyperlink](#hyperlink4): Designs, continued
+- [The Hyperlink](#hyperlink4): Designs, continued
 
 
 ### Week 2
@@ -147,11 +156,28 @@ If need be, continue finalizing your site&rsquo;s structure.
 
 For next week, the site structure should be finalized and your site&rsquo;s design should be implemented across at least 80% of your pages.
 
+### Assignment 2: The Hyperlink, Pt. 5 {hyperlink5}
+
+Based on feedback from class, finalize your design to a point where you can begin building it.
+
+For next class, prepare a pdf of your site map and site designs, an begin to build at least _two_ pages of your site in html + css.
+
+In finalizing your design, consider the levels of hierarchy in your site (this will help clarify the type of CSS you&rsquo;ll need to use). 
+- Are there titles? subtitles? sub-subtitles? are they consistently treated? Should they be consistently treated? 
+- Are there different types of hyperlinks? How might the user identify them or differentiate them from non-linkable text?
+- which elements stay consistent on your site? which elements change? 
+
+As you begin building your site&rsquo;s pages, take apart your designs piece by piece. Think about what elements are easiest to place and style— do those first. Finish placing one element before moving on to the next, and remember: additional elements can often influence others. 
+
+If you run into bugs, try and isolate which specific CSS attribute is causing the problem. Use Google to search for problems ("CSS width 100% not working", "CSS padding-left not showing up") by using keywords. 
 
 
 
 ## Lectures {lectures}
-- [A Brief History of the Internet](/lectures/history-of-the-internet)
+- [A Brief History of the Internet](lectures/history-of-the-internet)
+- [Typography and the Web (Technology and Resources)](lectures/typography-and-the-web)
+- [Design to Div Lecture](lectures/design-to-div)
+
 
 ## Reading List {readings}
 - [Dispersion](/readings/Dispersion2016.pdf) by Seth Price
