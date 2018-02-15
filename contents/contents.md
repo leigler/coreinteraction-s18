@@ -29,6 +29,14 @@ _In-Class_:
 _Assignment_:
 - [The Hyperlink](#hyperlink5): Finalize Designs, Begin Coding
 
+#### Feb 15
+_In-Class_:
+- Class Check-in
+- Individual Meetings
+
+_Assignment_:
+- [The Hyperlink](#hyperlink6)
+
 ### Week 3
 #### Feb 5
 _In-Class_:
@@ -170,6 +178,18 @@ In finalizing your design, consider the levels of hierarchy in your site (this w
 As you begin building your site&rsquo;s pages, take apart your designs piece by piece. Think about what elements are easiest to place and style— do those first. Finish placing one element before moving on to the next, and remember: additional elements can often influence others. 
 
 If you run into bugs, try and isolate which specific CSS attribute is causing the problem. Use Google to search for problems ("CSS width 100% not working", "CSS padding-left not showing up") by using keywords. 
+
+### Assignment 2: The Hyperlink, Pt. 6 {hyperlink6}
+
+Continue working on your project. For next class, continue building your website in HTML and CSS. By next class, you should have the majority of your project built.
+
+Over the next week, it may be necessary to simplify your design. In doing so, be sure to consider the following questions: 
+- What is the key interaction that drives your user? How might simplifying your design emphasize this interaction?
+- Is there variance in your page designs? How might you introduce consistency in how you build the pages while still retaining that variance?
+- Are there pages that aren&rsquo;t necessary? 
+
+Be sure to make note of any bugs you run into. Try and isolate these issues as much as possible (even down to the specific CSS attribute or html element).
+
 
 
 
