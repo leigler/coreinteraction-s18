@@ -212,7 +212,7 @@ Be sure to make note of any bugs you run into. Try and isolate these issues as m
 
 ### Assignment 3: Innovation and Invention, Pt. 1 {iandi}
 
-This assignment is based on Bruno Latour’s vignette, [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Guy Debord. For this project, you will select and research a specific technological object. Design and build a website that interprets this object's behavioral influence. 
+This assignment is based on Bruno Latour’s vignette, [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf). For this project, you will select and research a specific technological object. Design and build a website that interprets this object's behavioral influence. 
 
 For next class (March 1), read _The Berlin Key_ and take notes on the influential role of the key on the surrounding individual's behaviors. What technologies do you know of that have influenced behaviors at a similar scale? Find an object and prepare a brief presentation on it&rsquo;s history and influence on people&rsquo;s behaviors. 
 
@@ -240,7 +240,7 @@ Further References:
 - [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
 - [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
-- [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Guy Debord
+- [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Bruno Latour
 
 
 ## Resources {resources}
