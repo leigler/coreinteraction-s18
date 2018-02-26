@@ -19,6 +19,26 @@ eigll343@newschool.edu
 - [Resources](#resources)
 
 ## Schedule {schedule}
+
+### Week 6
+#### Feb 26
+_In-Class_:
+- The Hyperlink, Final Crit
+
+_Assignment_:
+- Read Guy Debord&rsquo;s [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) 
+- Part 1 of [Innovation and Invention](#iandi)
+
+### Week 5
+#### Feb 22
+_In-Class_:
+- Class Check-in
+- Individual Meetings
+
+_Assignment_:
+- The Hyperlink, prepare for Final Crit
+
+
 ### Week 4
 #### Feb 11
 _In-Class_:
@@ -190,7 +210,23 @@ Over the next week, it may be necessary to simplify your design. In doing so, be
 
 Be sure to make note of any bugs you run into. Try and isolate these issues as much as possible (even down to the specific CSS attribute or html element).
 
+### Assignment 3: Innovation and Invention, Pt. 1 {iandi}
 
+This assignment is based on Bruno Latour’s vignette, [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Guy Debord. For this project, you will select and research a specific technological object. Design and build a website that interprets this object's behavioral influence. 
+
+For next class (March 1), read _The Berlin Key_ and take notes on the influential role of the key on the surrounding individual's behaviors. What technologies do you know of that have influenced behaviors at a similar scale? Find an object and prepare a brief presentation on it&rsquo;s history and influence on people&rsquo;s behaviors. 
+
+Consider the following questions:
+- How has this object influenced the behavioral pattern of individuals using it?
+- How has this object influenced the behavioral pattern of communities using it?
+- Does this object bring people closer together, or push them further apart?
+- Who designed this object and why? 
+- How prevalent is this object now? If it is a historical object, what made people stop using it?
+- What did this object supersede? What superseded this object?
+
+Further References: 
+- The [Super Normal](https://jaspermorrison.com/exhibitions/2000-2009/super-normal)
+- [The New Aesthetic and its Politics](http://booktwo.org/notebook/new-aesthetic-politics/) by James Bridle
 
 
 ## Lectures {lectures}
@@ -204,6 +240,7 @@ Be sure to make note of any bugs you run into. Try and isolate these issues as m
 - [Uncreative Writing](/readings/Kenneth-Goldsmith_uncreative-writing.pdf) by Kenneth Goldsmith
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
 - [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
+- [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Guy Debord
 
 
 ## Resources {resources}
