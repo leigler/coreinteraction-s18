@@ -26,7 +26,7 @@ _In-Class_:
 - The Hyperlink, Final Crit
 
 _Assignment_:
-- Read Guy Debord&rsquo;s [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) 
+- Read Bruno Latour&rsquo;s [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) 
 - Part 1 of [Innovation and Invention](#iandi)
 
 ### Week 5
