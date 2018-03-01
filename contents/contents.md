@@ -244,6 +244,10 @@ For next class, isolate the object-produced behavior (i.e. interaction) you are 
 
 Bring in at least _two_ directions for your site. Focus on clearly illustrating the primariy interaction of your object and how it translates onto the web as well as bringing in several wireframes outlining the structure of your site.
 
+References: 
+- [Eames leg splint](http://www.eamesoffice.com/the-work/leg-splint/), design and technology influencing multiple communities (military communities, families, and design communities)
+- [Center Jenny](https://vimeo.com/75735816) by Ryan Trecartin (focusing on recording devices and how they impact an individual&rsquo;s performance)
+
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
