@@ -236,9 +236,9 @@ Further References:
 - The [Super Normal](https://jaspermorrison.com/exhibitions/2000-2009/super-normal)
 - [The New Aesthetic and its Politics](http://booktwo.org/notebook/new-aesthetic-politics/) by James Bridle
 
-### Assignment 3: Innovation and Invention {iandi2}
+### Assignment 3: Innovation and Invention, Pt. 2 {iandi2}
 
-Based on feedback from class, take a moment to reevaluate your object. How might you best destill the interaction your object hinges upon? Consider both how its form and location influence this interaction, as well as what technologies and inventions influence this designed behavior. If the object requires/maintains multiple types of interactions, how do these produced behaviors work with one another? 
+Based on feedback from class, take a moment to reevaluate your object. How might you best distill the interaction your object hinges upon? Consider both how its form and location influence this interaction, as well as what technologies and inventions influence this designed behavior. If the object requires/maintains multiple types of interactions, how do these produced behaviors work with one another? 
 
 For next class, isolate the object-produced behavior (i.e. interaction) you are most interested in and begin to conceptualize how your object may be translated into a stand-alone website. 
 
