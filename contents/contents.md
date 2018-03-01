@@ -29,6 +29,14 @@ _Assignment_:
 - Read Bruno Latour&rsquo;s [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) 
 - Part 1 of [Innovation and Invention](#iandi)
 
+#### March 1
+_In-Class_:
+- Class Discussion on The Berlin Key
+- Group critique and brainstorm on Innovation and Invention
+
+_Assignment_:
+- Part 2 of [Innovation and Invention](#iandi2)
+
 ### Week 5
 #### Feb 22
 _In-Class_:
@@ -227,6 +235,14 @@ Consider the following questions:
 Further References: 
 - The [Super Normal](https://jaspermorrison.com/exhibitions/2000-2009/super-normal)
 - [The New Aesthetic and its Politics](http://booktwo.org/notebook/new-aesthetic-politics/) by James Bridle
+
+### Assignment 3: Innovation and Invention {iandi2}
+
+Based on feedback from class, take a moment to reevaluate your object. How might you best destill the interaction your object hinges upon? Consider both how its form and location influence this interaction, as well as what technologies and inventions influence this designed behavior. If the object requires/maintains multiple types of interactions, how do these produced behaviors work with one another? 
+
+For next class, isolate the object-produced behavior (i.e. interaction) you are most interested in and begin to conceptualize how your object may be translated into a stand-alone website. 
+
+Bring in at least _two_ directions for your site. Focus on clearly illustrating the primariy interaction of your object and how it translates onto the web as well as bringing in several wireframes outlining the structure of your site.
 
 
 ## Lectures {lectures}
