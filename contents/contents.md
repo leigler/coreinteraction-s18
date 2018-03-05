@@ -20,6 +20,17 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 7
+#### March 5
+_In-Class_:
+- Individual Meetings
+- In-Class Exercise: UI Field Research<br>During class today, find a physical or digital interaction similar to one of your website directions. Document your engagement with this interaction as well as how others interact with it. Compose a brief report (photos, videos, and text) outlining your findings.
+
+_Assignment_:
+- Part 3 of [Innovation and Invention](#iandi3)
+- Finish your in-class exercise (UI Field Research)
+
+
 ### Week 6
 #### Feb 26
 _In-Class_:
@@ -247,6 +258,14 @@ Bring in at least _two_ directions for your site. Focus on clearly illustrating 
 References: 
 - [Eames leg splint](http://www.eamesoffice.com/the-work/leg-splint/), design and technology influencing multiple communities (military communities, families, and design communities)
 - [Center Jenny](https://vimeo.com/75735816) by Ryan Trecartin (focusing on recording devices and how they impact an individual&rsquo;s performance)
+
+
+### Assignment 3: Innovation and Invention, Pt. 3 {iandi3}
+Based on feedback from class, choose one direction for your site. Continue to develop this site interaction, and begin to detail this interaction (either through hyperlinked pdfs, a coded prototype, or some sort of prototyping tool like Invision, Principle, or Adobe XD). 
+
+Consider how you might best communicate this interaction to your audience for useful feedback.
+
+
 
 
 ## Lectures {lectures}
