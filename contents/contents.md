@@ -30,6 +30,12 @@ _Assignment_:
 - Part 3 of [Innovation and Invention](#iandi3)
 - Finish your in-class exercise (UI Field Research)
 
+#### March 8
+_In-Class_:
+- Inter-student Critique
+
+_Assignment_:
+- Part 4 of [Innovation and Invention](#iandi4)
 
 ### Week 6
 #### Feb 26
@@ -265,6 +271,18 @@ Based on feedback from class, choose one direction for your site. Continue to de
 
 Consider how you might best communicate this interaction to your audience for useful feedback.
 
+
+### Assignment 3: Innovation and Invention, Pt. 4 {iandi4}
+Today&rsquo;s class focused on gathering general feedback on your proposed interaction:
+- What aspects of your design were confusing? 
+- Which parts of your site&rsquo;s interaction did users gravitate towards? 
+- Did feedback suggest that your design had its intended effect? If not, what was the effect? How might you change it?
+
+Using the feedback you received, identify problematic points in your design. Review your notes and refine your website&rsquo;s interaction. Begin laying out the visual design of your site. 
+
+For next class, you should have an updated prototype (PDF, Adobe XD, Invision, After Effects, or Principle) ready for further user testing. This prototype should be self directing (meaning you don&rsquo;t have to be present for a user to navigate it).
+
+Based off of the responses towards your initial prototype, you should also compose a list of (at least) five questions that can be answered on a spectrum (an example of a spectrum question can be found [here](https://cdn.smassets.net/wp-content/uploads/2015/10/MD-1348_MultipleChoice_graphic3a.png)) and offer a follow-up explanation (i.e. "why?"). Have 14 copies printed out for next class. 
 
 
 
