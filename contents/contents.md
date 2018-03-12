@@ -20,6 +20,17 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Weed 8
+#### March 12
+_In-Class_:
+- Classwide user testing on _Innovation and Invention_
+
+_Assignment_:
+- Part 5 of [Innovation and Invention](#iandi5)
+
+_Reading_:
+- [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari
+
 ### Week 7
 #### March 5
 _In-Class_:
@@ -285,6 +296,13 @@ For next class, you should have an updated prototype (PDF, Adobe XD, Invision, A
 Based off of the responses towards your initial prototype, you should also compose a list of (at least) five questions that can be answered on a spectrum (an example of a spectrum question can be found [here](https://cdn.smassets.net/wp-content/uploads/2015/10/MD-1348_MultipleChoice_graphic3a.png)) and offer a follow-up explanation (i.e. "why?"). Have 14 copies printed out for next class. 
 
 
+### Assignment 3: Innovation and Invention, Pt. 5 {iandi5}
+
+Review the user feedback you received in class and allow it to inform your final design revisions. 
+
+For next class (March 15), your design should be resolved (i.e. all but final) and you should have begun programming your site. Focus on laying out your html/css and setting up your classes and id&rsquo;s in a way that allows you to easily access the your interactive elements with your javascript. 
+
+For next class you should have also read [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari and posted a question in response on the Slack.
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
