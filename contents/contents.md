@@ -31,6 +31,17 @@ _Assignment_:
 _Reading_:
 - [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari
 
+#### March 15
+_In-Class_: 
+- Class discussion on [Autoprogettazione?](/readings/enzo-mari.pdf)
+
+_Assignment_:
+- Part 5 of [Innovation and Invention](#iandi6)
+- Part 1 of [Observations](#observations)
+
+_Reading_:
+- [The System of Collecting](/readings/Baudrillard-TheSystemofCollecting.pdf) by Jean Baudrillard
+
 ### Week 7
 #### March 5
 _In-Class_:
@@ -303,6 +314,20 @@ Review the user feedback you received in class and allow it to inform your final
 For next class (March 15), your design should be resolved (i.e. all but final) and you should have begun programming your site. Focus on laying out your html/css and setting up your classes and id&rsquo;s in a way that allows you to easily access the your interactive elements with your javascript. 
 
 For next class you should have also read [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari and posted a question in response on the Slack.
+
+### Assignment 3: Innovation and Invention, Pt. 6 {iandi6}
+Use today&rsquo;s feedback to finalize your design. You should be well underway in coding your site. For next class (March 26), have your entire site roughly coded so that we can refine your live website upon our return from break. Please pay close attention to how your interaction manifests in an html setting, and how you may modify your design to benefit the natural tendencies of your code.
+
+### Assignment 4: Observations, Pt. 1 {observations}
+_Assignment Prompt_:
+
+[Jean Baudrillard](/readings/Baudrillard-TheSystemofCollecting.pdf) outlines collections as the collective separation of objects of their utility. An object within a true collection becomes purely aesthetic. A true collection acts as a mirror to its owner— it is given and retains meaning through the owner's presence and care. Create or find a collection of at least 40 objects. Your assignment is divided into two stages— organization and interpretation:
+
+1. Begin to organize this collection through the design and development of a simple website. What does organizing this collection begin to reveal? What patterns are present? What discrepancies? What themes does this collection hold? How does the site's design reflect the structures of the collection?
+
+_For April 5_:
+
+Over break, begin a collection of at least 40 items. In your selection, consider how each object relates to other objects in your growing collection and how it might differentiate itself. 
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
