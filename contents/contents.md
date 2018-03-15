@@ -20,10 +20,11 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
-### Weed 8
+### Week 8
 #### March 12
 _In-Class_:
 - Classwide user testing on _Innovation and Invention_
+- Class Critique
 
 _Assignment_:
 - Part 5 of [Innovation and Invention](#iandi5)
