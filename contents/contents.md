@@ -24,7 +24,6 @@ eigll343@newschool.edu
 #### March 12
 _In-Class_:
 - Classwide user testing on _Innovation and Invention_
-- Class Critique
 
 _Assignment_:
 - Part 5 of [Innovation and Invention](#iandi5)
@@ -35,6 +34,7 @@ _Reading_:
 #### March 15
 _In-Class_: 
 - Class discussion on [Autoprogettazione?](/readings/enzo-mari.pdf)
+- Class Critique
 
 _Assignment_:
 - Part 5 of [Innovation and Invention](#iandi6)
