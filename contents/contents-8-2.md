@@ -333,7 +333,10 @@ _Assignment Prompt_:
 
 [Jean Baudrillard](/readings/Baudrillard-TheSystemofCollecting.pdf) outlines collections as the collective separation of objects of their utility. An object within a true collection becomes purely aesthetic. A true collection acts as a mirror to its owner— it is given and retains meaning through the owner's presence and care. Create or find a collection of at least 40 objects. Your assignment is divided into two stages— organization and interpretation:
 
-1. Begin to organize this collection through the design and development of a simple website. What does organizing this collection begin to reveal? What patterns are present? What discrepancies? What themes does this collection hold? How does the site's design reflect the structures of the collection?
+Begin to organize this collection through the design and development of a simple website. 
+- What does organizing this collection begin to reveal? What patterns are present? What discrepancies? 
+- What themes does this collection hold? 
+- How does the site's design reflect the structures of the collection?
 
 _For April 5_:
 
