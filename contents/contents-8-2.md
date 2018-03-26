@@ -20,6 +20,15 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 9
+#### March 26
+
+_In-Class_:
+- Individual Meetings
+
+_Assignment_:
+- Continue working on Innovation and Invention (Final Critique on April 2)
+
 ### Week 8
 #### March 12
 _In-Class_:

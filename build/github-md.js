@@ -9,7 +9,7 @@ function githubMD(newPage){
 	showdown.setOption('customizedHeaderId', true);
 
 	var liveURL = 'https://raw.githubusercontent.com/' + user + '/' + repository + '/master/contents/contents.md',
-		testURL = 'contents/contents.md'
+		testURL = 'contents/contents-8-2.md'
 
 	var theURL = liveURL;
 
