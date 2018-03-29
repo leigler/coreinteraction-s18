@@ -29,6 +29,14 @@ _In-Class_:
 _Assignment_:
 - Continue working on Innovation and Invention (Final Critique on April 2)
 
+#### March 29
+_In-Class_:
+- Individual Meetings
+
+_Assignment_:
+- Finish Innovation and Invention (Final Critique on April 2)
+
+
 ### Week 8
 #### March 12
 _In-Class_:
