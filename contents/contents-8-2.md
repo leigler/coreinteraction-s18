@@ -20,6 +20,17 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 10
+#### April 2
+_In-Class_:
+- Class Critique on Innovation and Invention
+
+_Assignment_:
+- Part 1 of [Observations](#observations)
+
+_Reading_:
+- [Jean Baudrillard](/readings/Baudrillard-TheSystemofCollecting.pdf)
+
 ### Week 9
 #### March 26
 
@@ -348,7 +359,7 @@ Begin to organize this collection through the design and development of a simple
 
 _For April 5_:
 
-Over break, begin a collection of at least 40 items. In your selection, consider how each object relates to other objects in your growing collection and how it might differentiate itself. 
+For next class, bring in at least one collection of 40 items or more. In your selection, consider how each object relates to other objects in your growing collection and how it might differentiate itself.
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
@@ -362,6 +373,8 @@ Over break, begin a collection of at least 40 items. In your selection, consider
 - [The Garden of Forking Paths](/readings/garden-forking-paths-borges.pdf) by Jorge Luis Borges
 - [Typophoto](/readings/moholy-nagy-laszlo-typophoto.pdf) by László Moholy-Nagy
 - [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Bruno Latour
+- [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari
+- [The System of Collecting](/readings/Baudrillard-TheSystemofCollecting.pdf) by Jean Baudrillard
 
 
 ## Resources {resources}
