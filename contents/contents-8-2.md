@@ -20,6 +20,15 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 11
+#### April 9
+_In-Class_:
+- Class Discussion of [The System of Collecting](/readings/Baudrillard-TheSystemofCollecting.pdf)
+- Inter-student Critiques
+
+_Assignment_:
+- Part 2 of [Observations](#observations2)
+
 ### Week 10
 #### April 2
 _In-Class_:
@@ -360,6 +369,27 @@ Begin to organize this collection through the design and development of a simple
 _For April 5_:
 
 For next class, bring in at least one collection of 40 items or more. In your selection, consider how each object relates to other objects in your growing collection and how it might differentiate itself.
+
+### Assignment 4: Observations, Pt. 2 {observations2}
+
+The first part of our final project consists of organizing your collection through the design and development of a JSON-fed website.
+
+In creating this website, you should consider the following questions:
+- Does your collection have a thesis?
+- What opinion (or opinions) can you present through your collection?
+- What does organizing this collection begin to reveal? 
+- What patterns are present? What discrepancies? 
+- What themes does this collection hold? 
+- How does the site&rsquo;s design reflect the structures of the collection? 
+- What are your organizing principles? Are they identitical with how the site&rsquo;s content is navigable? 
+
+
+_For April 11_:
+
+Use the classifications that you and your classmates have generated in class to organize your collection. 
+
+For next class, construct a JSON object of your collection and have it export its contents onto an html page. Begin sketching methods of organizing/presenting your collection. 
+
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
