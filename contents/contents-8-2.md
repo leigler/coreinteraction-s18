@@ -29,6 +29,13 @@ _In-Class_:
 _Assignment_:
 - Part 2 of [Observations](#observations2)
 
+#### April 11
+_In-Class_:
+- Class meetings on Observations
+
+_Assignment_:
+- Part 3 of [Observations](#observations3)
+
 ### Week 10
 #### April 2
 _In-Class_:
@@ -39,6 +46,13 @@ _Assignment_:
 
 _Reading_:
 - [Jean Baudrillard](/readings/Baudrillard-TheSystemofCollecting.pdf)
+
+#### April 5
+_In-Class_:
+- Critique
+
+_Assignment_:
+- Finish Part 1 of [Observations](#observations)
 
 ### Week 9
 #### March 26
@@ -388,7 +402,21 @@ _For April 11_:
 
 Use the classifications that you and your classmates have generated in class to organize your collection. 
 
-For next class, construct a JSON object of your collection and have it export its contents onto an html page. Begin sketching methods of organizing/presenting your collection. 
+### Assignment 4: Observations, Pt. 3 {observations3}
+
+For next class (April 16):
+- continue refining your collection&rsquo;s scope
+- continue refining the design of your collection&rsquo;s site. _Your site&rsquo;s design should act as a visual prototype so that you can begin translating it into html next week._ 
+- construct a JSON object of your collection and have it export its contents onto an html page.
+
+References: 
+- [aiai.icaboston.org](https://aiai.icaboston.org)
+- [Postcards from Google Earth](http://clementvalla.com/work/postcards-from-google-earth/)
+- [Printed Matter Catalog](https://www.printedmatter.org/catalog)
+- [Library of the Printed Web](http://printedweb.org/)
+- ["Steve, Harvey, and Matt,"](http://epa.archive.work/)
+- [Wild Animals vs Manmade Materials](https://www.are.na/laurel-schwulst/wild-animals-vs-manmade-materials)
+- [Travess Smalley](https://www.google.com/search?q=travess+smalley+books&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHwaul4rLaAhWRmeAKHXztDtQQ_AUICygC&biw=1717&bih=1150)
 
 
 ## Lectures {lectures}
