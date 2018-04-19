@@ -435,7 +435,7 @@ References:
 For next class (April 23):
 - Finish developing your collection&rsquo;s site (April 23 will be our final check-in for this part of the assignment before the final crit (May 14)), and upload your site to github pages.
 
-- Begin sketches for the second half of this assignment, as a reminder, the brief is below: 
+- Begin sketches for the second half of this assignment. For next class, bring in initial sketches for _two_ different directions. As a reminder, the brief is below: 
 
 Based on the findings from the first part of this assignment, design and develop a second website that is mobile-first. 
 What about your collection excites you the most? What opinion is your collection presenting? How might this aspect of your collection be presented best in a website? This website may or may not contain artifacts of your collection, but should clearly communicate an interpretation of your collection through its design and interaction.
