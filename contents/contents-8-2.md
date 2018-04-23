@@ -20,6 +20,17 @@ eigll343@newschool.edu
 
 ## Schedule {schedule}
 
+### Week 13
+#### April 23
+_In-Class_:
+- Small Group Reviews of Observations
+
+_Assignment_:
+- Part 5 of [Observations](#observations5)
+
+_Reading_:
+- [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero
+
 ### Week 12
 #### April 16
 _In-Class_:
@@ -440,7 +451,18 @@ For next class (April 23):
 Based on the findings from the first part of this assignment, design and develop a second website that is mobile-first. 
 What about your collection excites you the most? What opinion is your collection presenting? How might this aspect of your collection be presented best in a website? This website may or may not contain artifacts of your collection, but should clearly communicate an interpretation of your collection through its design and interaction.
 
+### Assignment 4: Observations, Pt. 5 {observations5}
 
+For next class (April 26):
+- Based on today&rsquo;s working session, bring in digital sketches proposing your site (these should illustrate both mobile and scaled formats). Be sure to clearly identify the core aspect of your site— how does it interpret your original collection?
+
+A few questions to consider are:
+- How does your website interpret your original collection? Through visual layout? Interaction? A combination of both? 
+- How does your website scale? Is there a change in interaction?
+- How does this website pair with your collection website (the first half of this assignment)? Are they linked? Fully integrated? entirely separate?
+
+_Reading_:
+- [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero
 
 
 ## Lectures {lectures}
@@ -457,6 +479,7 @@ What about your collection excites you the most? What opinion is your collection
 - [The Berlin Key](/readings/P-36-Berliner-KEY-GB.pdf) by Bruno Latour
 - [Autoprogettazione?](/readings/enzo-mari.pdf) by Enzo Mari
 - [The System of Collecting](/readings/Baudrillard-TheSystemofCollecting.pdf) by Jean Baudrillard
+- [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero
 
 
 ## Resources {resources}
