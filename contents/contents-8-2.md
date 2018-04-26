@@ -31,6 +31,15 @@ _Assignment_:
 _Reading_:
 - [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero
 
+#### April 26
+_In-Class_:
+- Discussion of [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/)
+- Small Group Reviews of Observations
+
+_Assignment_:
+- Based on today&rsquo;s feedback, continue refining your mobile website designs. A timeline of the rest of the semester can be found [here](#observations6).
+
+
 ### Week 12
 #### April 16
 _In-Class_:
@@ -464,6 +473,18 @@ A few questions to consider are:
 _Reading_:
 - [The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/) by Frank Chimero
 
+
+### Assignment 4: Observations, Timeline {observations6}
+
+- April 30: Updated designs for Part 2.
+
+- May 3: Design of Part 2 resolved.
+
+- May 7: Design of Part 2 completed, development started.
+
+- May 10: Development of Part 2 continued.
+
+- May 14: Final Critique on both Part 1 & 2 of _Observations_. Please have both projects set up on Github Pages. 
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
