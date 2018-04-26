@@ -476,15 +476,15 @@ _Reading_:
 
 ### Assignment 4: Observations, Timeline {observations6}
 
-- April 30: Updated designs for Part 2.
+- _April 30_: Updated designs for Part 2.
 
-- May 3: Design of Part 2 resolved.
+- _May 3_: Design of Part 2 resolved.
 
-- May 7: Design of Part 2 completed, development started.
+- _May 7_: Design of Part 2 completed, development started.
 
-- May 10: Development of Part 2 continued.
+- _May 10_: Development of Part 2 continued.
 
-- May 14: Final Critique on both Part 1 & 2 of _Observations_. Please have both projects set up on Github Pages. 
+- _May 14_: Final Critique on both Part 1 & 2 of _Observations_. Please have both projects set up on Github Pages. 
 
 ## Lectures {lectures}
 - [A Brief History of the Internet](lectures/history-of-the-internet)
