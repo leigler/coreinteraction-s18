@@ -37,7 +37,7 @@ _In-Class_:
 - Small Group Reviews of Observations
 
 _Assignment_:
-- Based on today&rsquo;s feedback, continue refining your mobile website designs. A timeline of the rest of the semester can be found [here](#observations6).
+- Based on today&rsquo;s feedback, continue refining your mobile website designs for Part 2 of Observations. A timeline of the rest of the semester can be found [here](#observations6).
 
 
 ### Week 12
