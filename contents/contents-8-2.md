@@ -9,6 +9,9 @@ Parsons 2 W 13th, Rm. 1006
 eigll343@newschool.edu
 
 
+
+
+
 ## Table of Contents {toc}
 
 - [Class Syllabus](/readings/PUCD_2125_E_EIGLER-HARDING_SP18.pdf)
@@ -19,6 +22,28 @@ eigll343@newschool.edu
 - [Resources](#resources)
 
 ## Schedule {schedule}
+
+### Last Two Weeks:
+
+- _April 30_: Updated designs for Part 2.
+
+- _May 3_: Design of Part 2 resolved.
+
+- _May 7_: Design of Part 2 completed, development started.
+
+- _May 10_: Development of Part 2 continued.
+
+- _May 14_: Final Critique on both Part 1 & 2 of _Observations_. Please have both projects set up on Github Pages. 
+
+
+### Submitting your projects for grading:
+
+No later than the 16th of May, either send a .zip of each of your projects to eigll343@newschool.edu_ OR _push each project to a github page and send an email with a link to each project for grading._
+
+If you haven't already, please fill out the Course Evaluation. This will allow you to access your grades as soon they are listed.
+
+
+
 
 ### Week 13
 #### April 23
